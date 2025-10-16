@@ -1,0 +1,12 @@
+mode: "test"
+device: "cpu"                     # or "mps"
+num_labels: 2
+max_len: 512
+batch_size: 16
+
+test_path: "data/datapackets/test.csv"   # or test.pkl
+text_col: "text"
+label_candidates: ["YS_Class","label","class","target"]
+
+ckpt_path: "outputs/best_model.pt"
+test_out_dir: "data/datapackets/test_results"
