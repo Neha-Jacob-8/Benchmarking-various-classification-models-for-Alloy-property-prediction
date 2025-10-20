@@ -4,3 +4,12 @@ AlloyBERT_classification/README.md
 AlloyBERT_classification/LICENSE
 AlloyBERT_classification/test.py
 AlloyBERT_classification/testing.py
+AlloyBERT_classification/data/newdataset/
+AlloyBERT_classification/.DS_Store
+AlloyBERT_classification/CleanMPEA.ipynb
+AlloyBERT_classification/MPEA_dataset.csv
+AlloyBERT_classification/split.py
+AlloyBERT_classification/LICENSE
+AlloyBERT_classification/README.md
+AlloyBERT_classification/test.py
+AlloyBERT_classification/testing.py
